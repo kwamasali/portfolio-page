@@ -12,18 +12,21 @@ export const Projects = () => {
   const projects = [
     {
       title: "Gericht Restaurant",
-      description: "Design & Development",
+      description: "React & Tailwind CSS",
       imgUrl: projImg1,
+      projectUrl:"https://kwamasali-gericht-restaurant.netlify.app" // Your project URL
     },
     {
       title: "Hoobank App",
-      description: "Design & Development",
+      description: "React & Vite",
       imgUrl: projImg2,
+      projectUrl:"https://kwamasali-hoobank-app.netlify.app/"
     },
     {
       title: "GPT-3",
-      description: "Design & Development",
+      description: "Basics of the CSS BEM Model",
       imgUrl: projImg3,
+      projectUrl:"https://kwamasali-gpt-3.netlify.app"
     },
   ];
 

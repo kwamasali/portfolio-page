@@ -1,0 +1,2 @@
+[build.environment]
+  NODE_VERSION = "116.16.0"
